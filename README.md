@@ -1,4 +1,4 @@
-# CPP-2023-2024
+# CPP_2023_2024
 Repository for CPP (Programowanie w języku C++ - C++ Programming) course at AGH University
 
 W każdym z katalogów **lab*i*, i=1,2,...,6** znajdują się:

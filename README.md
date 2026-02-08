@@ -1,5 +1,5 @@
 # CPP-2023-2024
-Repository for CPP (C++) course at AGH University
+Repository for CPP (Programowanie w języku C++ - C++ Programming) course at AGH University
 
 W każdym z katalogów **lab*i*, i=1,2,...,6** znajdują się:
 - katalog **tests**, który zawiera pliki potrzebne do automatycznego testowania zadania
